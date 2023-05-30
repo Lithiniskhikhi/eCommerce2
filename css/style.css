@@ -1,0 +1,29 @@
+body{
+background-color:#000;
+text-align: center;
+color: white;
+
+}
+h1{
+    margin-top: 4rem;
+
+
+}
+h6{
+    margin-top: 4rem;   
+}
+ .logo{
+width: 20rem;
+height: 22rem;
+ }
+ .landing{
+    width: 15rem;
+    height: 20rem;
+    margin: 1rem;
+ }
+  img{
+    width: 15rem;
+  }
+  h7{
+    color: white;
+  }
